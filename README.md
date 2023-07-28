@@ -55,5 +55,5 @@ npm run dev
 3. Implement user feedback.
 
 #### Reference
-Author(s) of the article. (2023). [Tree of Thoughts: Deliberate Problem Solving
+ [Tree of Thoughts: Deliberate Problem Solving
 with Large Language Models](https://arxiv.org/abs/2305.10601). arXiv, (2305.10601).
