@@ -53,6 +53,7 @@ npm run dev
 1. Add a form to configure the backend from the frontend.
 2. Enhance the frontend.
 3. Implement user feedback.
+4. Refactor code
 
 #### Reference
  [Tree of Thoughts: Deliberate Problem Solving
