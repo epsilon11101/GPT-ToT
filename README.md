@@ -53,3 +53,7 @@ npm run dev
 1. Add a form to configure the backend from the frontend.
 2. Enhance the frontend.
 3. Implement user feedback.
+
+#### Reference
+Author(s) of the article. (2023). [Tree of Thoughts: Deliberate Problem Solving
+with Large Language Models](https://arxiv.org/abs/2305.10601). arXiv, (2305.10601).
